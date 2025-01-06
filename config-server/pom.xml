@@ -7,10 +7,11 @@
 		<artifactId>Involve</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
+
 	<groupId>com.microservice.config</groupId>
-	<artifactId>microservice-config</artifactId>
+	<artifactId>config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>microservice-config</name>
+	<name>config-server</name>
 	<description>Spring Boot Microservice Config</description>
 	<url/>
 	<licenses>
